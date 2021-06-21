@@ -1,4 +1,6 @@
-#!/Users/evgenyandreev/Desktop/All/Python/Stepik_Selenium_PyTest/selenium_env/bin/python3
+#!/bin/sh
+'''exec' "/Users/evgenyandreev/Desktop/All/Python/Stepik - Автоматизированное тестироваие/selenium_env/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
